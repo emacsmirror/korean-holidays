@@ -46,6 +46,7 @@
     (holiday-chinese  4  8 "부처님오신날")
     (holiday-fixed    5  5 "어린이날")
     (holiday-fixed    6  6 "현충일")
+    (holiday-fixed    7 17 "제헌절")
     (holiday-fixed    8 15 "광복절")
     (holiday-chinese  8 15 "추석")
     (holiday-fixed   10  3 "개천절")
